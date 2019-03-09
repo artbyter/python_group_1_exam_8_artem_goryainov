@@ -121,7 +121,7 @@ class TaskForm extends Component {
 
         const due_date_selected = due_date ? new Date(due_date) : null;
 
-
+        let disable=this.props.edit ? null : 'isDisabled'
         return <div>
             {alert}
             <form onSubmit={this.formSubmitted}>
@@ -149,7 +149,7 @@ class TaskForm extends Component {
                 </div>
                 <div className="form-group">
                     <label>Статус</label>
-                    <Select options={select_options} isMulti={false} name='status'
+                    <Select options={select_options} isMulti={false} name='status' isDisabled={disable} defaultValue={select_options[0]}
                             onChange={(values) => this.selectChanged('status', values)}/>
                 </div>
                 <button disabled={this.state.submitDisabled} type="submit"
