@@ -26,7 +26,6 @@ class TaskForm extends Component {
 
 
 
-
     updateTaskState = (fieldName, value) => {
         this.setState(prevState => {
             let newState = {...prevState};
@@ -97,7 +96,7 @@ class TaskForm extends Component {
 
                 .then(task => {
                         console.log(task)
-                    this.props.props.history.replace('/tasks/'+ task.id+'/')
+                    this.props.props.history.replace('/tasks/')
                 })
                 .catch(error => {
                     console.log(error);
