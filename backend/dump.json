@@ -1,0 +1,97 @@
+[
+{
+  "model": "webapp.task",
+  "pk": 1,
+  "fields": {
+    "summary": "Task 01",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget nisi nec odio ornare porta ut eu elit. Morbi venenatis, nulla sed venenatis consectetur, felis lorem varius leo, molestie dapibus urna ligula viverra nulla. Donec mi tellus, sodales nec augue eget, faucibus aliquet nibh. Nulla malesuada quam a fermentum imperdiet. Donec non lectus at velit luctus sagittis. Suspendisse quis ligula ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse at pharetra diam. Morbi ac mauris vel eros volutpat accumsan eu vitae lorem. Sed faucibus maximus condimentum.",
+    "due_date": "2019-03-13T00:00:00Z",
+    "status": "queued",
+    "time_planned": "2.3"
+  }
+},
+{
+  "model": "webapp.task",
+  "pk": 2,
+  "fields": {
+    "summary": "Task 02",
+    "description": "Integer ligula orci, dictum et arcu eget, tempus molestie justo. Proin et erat velit. Aenean fringilla lobortis malesuada. Vivamus non nibh vitae nulla sagittis ultricies. Vestibulum at porttitor ipsum. Integer pretium sem sed malesuada sagittis. Morbi bibendum interdum cursus. Maecenas fermentum nisi odio, ut scelerisque tellus cursus nec. Duis dapibus eros nec dapibus luctus. Integer in vulputate erat. Nulla sit amet ex sit amet lorem posuere sodales at ut metus. Praesent vitae commodo dolor. Nulla scelerisque massa non neque rutrum facilisis. Proin volutpat vitae ligula nec congue.",
+    "due_date": "2019-03-10T06:00:00Z",
+    "status": "in work",
+    "time_planned": "3.1"
+  }
+},
+{
+  "model": "webapp.task",
+  "pk": 3,
+  "fields": {
+    "summary": "Task 03",
+    "description": "Fusce risus erat, egestas vitae consectetur quis, porta ac libero. Nam eu elementum tellus. Sed semper dolor non velit dictum tristique. Aliquam varius, arcu quis maximus luctus, ex quam ultricies urna, in ornare felis ante vitae enim. Morbi a dolor a dui dictum gravida. Morbi tincidunt fringilla arcu a ullamcorper. Morbi in commodo enim, varius ultrices augue. Integer tristique, enim in laoreet eleifend, diam ante tempor tellus, vel imperdiet ex dolor et metus. Curabitur vehicula rhoncus nunc, in fermentum lectus vulputate ac. Morbi vitae mauris congue, dignissim arcu ac, aliquet libero. Mauris vitae diam nec enim faucibus tempor eget id mauris.",
+    "due_date": "2019-03-10T06:13:00Z",
+    "status": "queued",
+    "time_planned": "5.3"
+  }
+},
+{
+  "model": "webapp.task",
+  "pk": 4,
+  "fields": {
+    "summary": "Task 04",
+    "description": "Aenean volutpat pellentesque ex ut bibendum. Morbi tristique nulla finibus, consequat nibh vitae, rhoncus turpis. Pellentesque sollicitudin est purus, ut fermentum metus euismod et. Morbi mattis hendrerit augue nec consequat. Donec varius facilisis quam viverra viverra. Duis vestibulum eget mi nec sagittis. Sed facilisis augue in libero lobortis accumsan. Cras eget metus ex. Aliquam ac efficitur erat. Vivamus ac fringilla justo, ut auctor massa. Pellentesque venenatis interdum tellus dapibus faucibus. Aliquam eros tortor, posuere blandit libero imperdiet, lobortis consectetur orci. Morbi non ultrices lacus, quis rhoncus enim. Morbi a turpis erat. Donec lacinia iaculis ipsum eget maximus.",
+    "due_date": "2019-03-15T21:55:00Z",
+    "status": "queued",
+    "time_planned": "6.7"
+  }
+},
+{
+  "model": "webapp.task",
+  "pk": 5,
+  "fields": {
+    "summary": "Task 05",
+    "description": "Donec ipsum mi, ullamcorper vitae pretium quis, iaculis nec sapien. Maecenas eget vehicula sem. Duis nec est feugiat, euismod mi in, accumsan enim. Morbi sit amet sagittis lorem. Nullam ac odio nunc. Nullam aliquet enim eget eros semper, sodales blandit diam dapibus. Phasellus ullamcorper dictum interdum. Praesent egestas ex non semper rhoncus. Etiam faucibus ipsum turpis, nec tristique lacus egestas ut. Aenean nulla purus, eleifend in laoreet in, elementum imperdiet turpis. In in metus posuere, elementum ante ac, imperdiet lorem. Proin facilisis accumsan mollis. Fusce sit amet turpis sed tortor scelerisque tempus. Vivamus ut interdum augue. Donec posuere consequat felis, id ultrices ante vehicula sed. Phasellus est ex, faucibus in vehicula ut, ornare a nulla.",
+    "due_date": "2019-03-31T18:00:00Z",
+    "status": "queued",
+    "time_planned": "5.3"
+  }
+},
+{
+  "model": "webapp.task",
+  "pk": 6,
+  "fields": {
+    "summary": "Task 06",
+    "description": "Donec ipsum mi, ullamcorper vitae pretium quis, iaculis nec sapien. Maecenas eget vehicula sem. Duis nec est feugiat, euismod mi in, accumsan enim. Morbi sit amet sagittis lorem. Nullam ac odio nunc. Nullam aliquet enim eget eros semper, sodales blandit diam dapibus. Phasellus ullamcorper dictum interdum. Praesent egestas ex non semper rhoncus. Etiam faucibus ipsum turpis, nec tristique lacus egestas ut. Aenean nulla purus, eleifend in laoreet in, elementum imperdiet turpis. In in metus posuere, elementum ante ac, imperdiet lorem. Proin facilisis accumsan mollis. Fusce sit amet turpis sed tortor scelerisque tempus. Vivamus ut interdum augue. Donec posuere consequat felis, id ultrices ante vehicula sed. Phasellus est ex, faucibus in vehicula ut, ornare a nulla.",
+    "due_date": "2019-03-26T18:00:00Z",
+    "status": "queued",
+    "time_planned": "6.7"
+  }
+},
+{
+  "model": "webapp.task",
+  "pk": 29,
+  "fields": {
+    "summary": "Task 09",
+    "description": "Donec ipsum mi, ullamcorper vitae pretium quis, iaculis nec sapien. Maecenas eget vehicula sem. Duis nec est feugiat, euismod mi in, accumsan enim. Morbi sit amet sagittis lorem. Nullam ac odio nunc. Nullam aliquet enim eget eros semper, sodales blandit diam dapibus. Phasellus ullamcorper dictum interdum. Praesent egestas ex non semper rhoncus. Etiam faucibus ipsum turpis, nec tristique lacus egestas ut. Aenean nulla purus, eleifend in laoreet in, elementum imperdiet turpis. In in metus posuere, elementum ante ac, imperdiet lorem. Proin facilisis accumsan mollis. Fusce sit amet turpis sed tortor scelerisque tempus. Vivamus ut interdum augue. Donec posuere consequat felis, id ultrices ante vehicula sed. Phasellus est ex, faucibus in vehicula ut, ornare a nulla.",
+    "due_date": "2019-03-31T18:00:00Z",
+    "status": "in work",
+    "time_planned": "5.3"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$120000$fBaCN07i6WQz$BFXCqo7xT7O3hjCHv5vfVBM6rNzVlis2V1GtyuytLcI=",
+    "last_login": "2019-03-09T05:34:57.869Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2019-03-09T05:33:35.716Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
